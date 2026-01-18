@@ -2,6 +2,11 @@
 
 A minimalist, privacy-focused habit tracker built with Flutter. Designed to help you build consistency through streaks, journaling, and local AI insights.
 
+## 📸 Screenshots
+| Home Screen | Habits Tab | Journal |
+|:---:|:---:|:---:|
+| <img src="screenshots/home.png" width="300"> | <img src="screenshots/habits.png" width="300"> | <img src="screenshots/journal.png" width="300"> |
+
 ## ✨ Features
 
 ### 📅 Habit Tracking
